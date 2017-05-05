@@ -1,0 +1,20 @@
+.form-group {
+  color: purple;
+  background-color: lightgreen;
+  font-size: 20px;
+}
+
+li {
+  font-size: 25px;
+  color: darkgreen;
+}
+
+h2 {
+  color: brown;
+  text-align: center;
+  font-family: cursive;
+}
+
+body {
+  background-color: skyblue;
+}
